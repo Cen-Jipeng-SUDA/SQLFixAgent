@@ -78,7 +78,7 @@ run.sh includes two script:
 
 **run_sqltool.py** uses **CodeS** to generate SQL
 
-**run_fix.py** uses a LLM API and **CodeS** to detect and fix errors from the previous stage.
+**run_fix.py** uses a **LLM API** and **CodeS** to detect and fix errors from the previous stage.
 
 ## Note
 
